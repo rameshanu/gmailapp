@@ -10,5 +10,7 @@ public static void main(String[] args) {
 
 abstract class TestByTest extends ByTest
 {
-	
+	private void hello() {
+		System.out.println("hello");
+	}
 }
