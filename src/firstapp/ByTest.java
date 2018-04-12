@@ -13,4 +13,12 @@ abstract class TestByTest extends ByTest
 	private void hello() {
 		System.out.println("hello");
 	}
+	private void login() {
+		// TODO Auto-generated method stub
+
+	}
+	private void logout() {
+		// TODO Auto-generated method stub
+
+	}
 }
